@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Richard",
+    "age": 25,
+    "interests": [
+      "programming",
+      "reading",
+      "music"
+    ],
+    "isRegistered": true
+  },
+  {
+    "name": "Ana",
+    "age": 30,
+    "interests": [
+      "traveling",
+      "cooking",
+      "sports"
+    ],
+    "isRegistered": false
+  },
+  {
+    "name": "Carlos",
+    "age": 22,
+    "interests": [
+      "art",
+      "movies",
+      "theater"
+    ],
+    "isRegistered": false
+  },
+  {
+    "name": "MyDollyAriane",
+    "age": 18,
+    "interests": [
+      "Picarme la colita",
+      " no ba\u00f1arme"
+    ],
+    "isRegistered": true
+  },
+  {
+    "name": "Arianita",
+    "age": "18",
+    "interests": [
+      "Jugar sims",
+      " Ba\u00f1arme'nt",
+      " comer atuncito",
+      " estar con mi novio"
+    ],
+    "isRegistered": true
+  },
+  {
+    "name": "Miguela",
+    "age": " 6",
+    "interests": [
+      "Ser un miguel",
+      " Existir como un miguel",
+      " Fuchibol"
+    ],
+    "isRegistered": true
+  },
+  {
+    "name": "Nuevo Usuario",
+    "age": "19",
+    "interests": [
+      "Me gusta comer"
+    ],
+    "isRegistered": true
+  },
+  {
+    "name": "Timon",
+    "age": "8",
+    "interests": [
+      "Comer gusanos",
+      " culear jabalis",
+      " pangolines"
+    ],
+    "isRegistered": true
+  }
+]

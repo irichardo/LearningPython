@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Richard",
+    "age": 25,
+    "interests": [
+      "programming",
+      "reading",
+      "music"
+    ],
+    "isRegistered": true
+  },
+  {
+    "name": "Ana",
+    "age": 30,
+    "interests": [
+      "traveling",
+      "cooking",
+      "sports"
+    ],
+    "isRegistered": false
+  },
+  {
+    "name": "Carlos",
+    "age": 22,
+    "interests": [
+      "art",
+      "movies",
+      "theater"
+    ],
+    "isRegistered": false
+  }
+]

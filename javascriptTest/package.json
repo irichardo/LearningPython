@@ -1,0 +1,13 @@
+{
+  "name": "javascripttest",
+  "version": "1.0.0",
+  "type": "commonjs" ,
+  "description": "",
+  "main": "JavascriptPrueba.js",
+  "scripts": {
+    "test": "node JavascriptPrueba"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
